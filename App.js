@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { StyleSheet, View, FlatList, Button } from "react-native";
 import { StatusBar } from "react-native";
-import { GoalItem } from "./Components/GoalItem";
-import { GoalInput } from "./Components/GoalInput";
+import  GoalItem  from "./Components/GoalItem";
+import  GoalInput  from "./Components/GoalInput";
 
 export default function App() {
   const [courseGoals, setCourseGoals] = useState([]);
