@@ -1,6 +1,6 @@
 # GoalsApp
 
-An app for users to manage their Goals using React Native .<br>
+An app for users to manage their Goals using <b>React Native</b> .<br>
 
 ## Introduction
 
